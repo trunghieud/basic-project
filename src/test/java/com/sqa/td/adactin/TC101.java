@@ -8,6 +8,6 @@ public class TC101 extends AdactinTest
 	@Test
 	public void testAdactin() throws InterruptedException
 	{
-		Thread.sleep(10000);
+		Thread.sleep(5000);
 	}
 }
